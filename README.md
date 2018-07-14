@@ -1,0 +1,2 @@
+# lcdRefactor
+Refactorizar el programa
